@@ -6,7 +6,7 @@ A recent IT engineering graduate from Spain.
 ## Technologies I Usually Use
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=c,java,python,mysql,&perline=8)   
+![Languages](https://skillicons.dev/icons?i=c,cpp,java,python,mysql,&perline=8)   
 
 ### Tools
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,androidstudio,discord,&perline=8)
