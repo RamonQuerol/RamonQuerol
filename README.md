@@ -12,7 +12,7 @@ A recent IT engineering graduate from Spain.
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,androidstudio,discord,&perline=8)
 
 ### Operating Systems
-![Multimedia](https://skillicons.dev/icons?i=windows,ubuntu&perline=8)
+![Multimedia](https://go-skill-icons.vercel.app/api/icons?i=debian,ubuntu,windows&theme=dark&perline=8)
 
 ## Where to find me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramon-querol-leon/)
