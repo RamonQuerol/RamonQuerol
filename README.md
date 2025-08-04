@@ -6,10 +6,10 @@ An IT engineering graduate from Spain, currently working as a developer in the Q
 ## Technologies I Usually Use
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=c,cpp,python,bash,java,mysql,&perline=8)   
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,bash,java,mysql,&theme=dark&perline=8)   
 
 ### Tools
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=docker,vscode,obsidian,git,github,androidstudio,tmux,&perline=8)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=docker,vscode,obsidian,git,github,androidstudio,tmux,&theme=dark&perline=8)
 
 ### Operating Systems
 ![Multimedia](https://go-skill-icons.vercel.app/api/icons?i=debian,ubuntu,fedora,windows&theme=dark&perline=8)
